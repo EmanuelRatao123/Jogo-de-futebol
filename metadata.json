@@ -1,0 +1,8 @@
+{
+  "name": "Camisa 10 — Simulador de Pênalti e Falta",
+  "description": "Simulador de futebol 3D e 2D para cobranças de pênalti e falta com controle de curva, força, efeito e tipos de chute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
